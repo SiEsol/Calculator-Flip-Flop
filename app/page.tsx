@@ -110,7 +110,7 @@ function CalculatorFlipFlop() {
                   Q = <div className="mx-[15px] w-[100px] h-[40px] shadow-[inset_0_0_3px_0px_rgba(0,0,0,0.25)] rounded-xl text-[15px] justify-center items-center flex font-semibold">{q}</div>
                 </div>
                 <div className="flex flex-row justify-center items-center">
-                  Q' = <div className="mx-[15px] w-[100px] h-[40px] shadow-[inset_0_0_3px_0px_rgba(0,0,0,0.25)] rounded-xl text-[15px] justify-center items-center flex font-semibold">{qNot}</div>
+                  Q` = <div className="mx-[15px] w-[100px] h-[40px] shadow-[inset_0_0_3px_0px_rgba(0,0,0,0.25)] rounded-xl text-[15px] justify-center items-center flex font-semibold">{qNot}</div>
                 </div>
               </div>
               
